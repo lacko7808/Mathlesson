@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Matek oktatás</string>
+    <string name="navigation_drawer_open">Nyisd meg a navigációs rajzolót</string>
+    <string name="navigation_drawer_close">Zárd be a navigációs rajzolót</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigáció</string>
+    <string name="action_settings">Beállítások</string>
+
+    <string name="menu_home">Kezdőlap</string>
+    <string name="menu_gallery">Galéria</string>
+    <string name="menu_slideshow">Diavetítés</string>
+</resources>
